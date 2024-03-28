@@ -1,27 +1,27 @@
 # Business Intelligence Presentation Proposal: Analysis on Social Media Influence on Mental Health
 
-   ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/image.jpg)
+   ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/AI_banner.png)
 
 
 
 
               
-## Introduction
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png)Introduction
 In this presentation, I will explore social media's impact on mental health and leverage business intelligence techniques to gain insights from relevant datasets. Understanding these connections can inform strategies for promoting well-being.
 
-## Goals of the Presentation
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Goals of the Presentation
 - **Raise Awareness**: Highlight the influence of social media on mental health outcomes.
 - **Demonstrate Insights**: Showcase how data-driven approaches can uncover valuable information.
 - **Empower Decision-Makers**: Provide actionable recommendations for mental health support.
 
-## Presentation Candidate
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Presentation Candidate
 **Name:** Marian Ofori Yeboah
 
 **Background and Experience.**: I have a background in Business Administration and am currently studying Business Intelligence and Analytics at NSCC.
  I have five years of experience as a Cost Control Analyst. I am knowledgeable in Database design, Reporting and  Analysis.
  I have extensive experience working with Business Intelligence Tools such as Python, SQL, and Power BI.
  
-## Data Selection
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Data Selection
 This dataset was chosen based on its relevance to the research focus on understanding the relationship between social media usage and mental health outcomes, its completeness, quality, and compatibility with analysis goals. It captures real-world conversations, sentiments, and trends related to mental health on selected social media platforms. It includes 21 columns capturing various aspects and is appropriate for statistical analysis and deriving meaningful insights.
 
 ### Potential sources for data acquisition
@@ -29,7 +29,7 @@ This dataset was chosen based on its relevance to the research focus on understa
 - Market Research Reports
 - Academic Journals and Research Papers
 
-## Business Intelligence Techniques Demonstration
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Business Intelligence Techniques Demonstration
 ### Overview of Selected Business Intelligence Techniques
 1. **Exploratory Data Analysis (EDA)**:
     - Clean and preprocess data
@@ -47,7 +47,7 @@ This dataset was chosen based on its relevance to the research focus on understa
    - Test hypotheses related to social media impact on mental health.
 
 
-## Implementation
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Implementation
 ### Schedule
 - Data Preparation: Week 1 
 - EDA and Analysis: Week 2
@@ -61,10 +61,10 @@ This dataset was chosen based on its relevance to the research focus on understa
 
 
 
-## Conclusion
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Conclusion
 This presentation explores the relationship between social media usage and mental health, providing insights for researchers and stakeholders. It analyzes a dataset of 21 key variables to deepen understanding of the correlation between social media habits and mental health. The analysis identifies patterns and trends, potentially revealing factors contributing to both positive and negative impacts. The findings can inform interventions and empower decision-making, promoting healthier social media habits and a more inclusive digital environment.
 
-## Appendices
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/ICONThumbUP.png) Appendices
 Original Dataset Source:https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
 
 ### Resources for additional learning and exploration
