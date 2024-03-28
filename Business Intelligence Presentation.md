@@ -1,6 +1,7 @@
 # Business Intelligence Presentation Proposal: Analysis on Social Media Influence on Mental Health
 
-  !Designer Image.png)
+!Designer (1).png?raw=true)
+
 
 
 
