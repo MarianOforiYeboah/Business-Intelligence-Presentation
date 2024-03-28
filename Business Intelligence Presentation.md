@@ -1,9 +1,12 @@
-# Business Intelligence Presentation Proposal
+# Business Intelligence Presentation Proposal: Analysis on Social Media Influence on Mental Health
 
 ## Introduction
-- Overview of the business intelligence topic
-- Significance of data-driven decision-making
-- Goals of the presentation
+In this presentation, I will explore social media's impact on mental health and leverage business intelligence techniques to gain insights from relevant datasets. Understanding these connections can inform strategies for promoting well-being.
+
+## Goals of the Presentation
+- **Raise Awareness**: Highlight the influence of social media on mental health outcomes.
+- **Demonstrate Insights**: Showcase how data-driven approaches can uncover valuable information.
+- **Empower Decision-Makers**: Provide actionable recommendations for mental health support.
 
 ## Presentation Candidate
 - Name and professional background
