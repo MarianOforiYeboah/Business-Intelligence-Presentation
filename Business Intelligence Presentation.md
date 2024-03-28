@@ -6,7 +6,7 @@
 
 
               
-##  ![image](https://github.com/MarianOforiYeboah/Business-IntelligencePresentation/blob/main/Images/ICONThumbUP.png)Introduction
+##  ![image](https://github.com/MarianOforiYeboah/BusinessIntelligencePresentation/blob/main/Images/ICONThumbUP.png)Introduction
 In this presentation, I will explore social media's impact on mental health and leverage business intelligence techniques to gain insights from relevant datasets. Understanding these connections can inform strategies for promoting well-being.
 
 ## Goals of the Presentation
