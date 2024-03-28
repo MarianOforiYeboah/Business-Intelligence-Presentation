@@ -60,8 +60,12 @@ This dataset was chosen based on its relevance to the research focus on understa
 This presentation explores the relationship between social media usage and mental health, providing insights for researchers and stakeholders. It analyzes a dataset of 21 key variables to deepen understanding of the correlation between social media habits and mental health. The analysis identifies patterns and trends, potentially revealing factors contributing to both positive and negative impacts. The findings can inform interventions and empower decision-making, promoting healthier social media habits and a more inclusive digital environment.
 
 ## Appendices
-### Bibliography of business intelligence literature
-Kimball, R., Ross, M., Thornthwaite, W., & Mundy, J. (2013).The Data Warehouse Toolkit, (3rd ed.). https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/
+Original Dataset 
+
 
 ### Resources for additional learning and exploration
-Primack, B. A., Shensa, A., Sidani, J. E., Whaite, E. O., Lin, L. yi, Rosen, D., Colditz, J. B., Radovic, A., & Miller, E. (2017). Social media use and perceived social isolation among young adults in the U.S. American Journal of Preventive Medicine, 53(1), 1–8. https://doi.org/10.1016/j.amepre.2017.01.010 
+Primack, B. A., Shensa, A., Sidani, J. E., Whaite, E. O., Lin, L. yi, Rosen, D., Colditz, J. B., Radovic, A., & Miller, E. (2017). Social media use and perceived social isolation among young adults in the U.S. American Journal of Preventive Medicine, 53(1), 1–8. https://doi.org/10.1016/j.amepre.2017.01.010
+
+Kimball, R., Ross, M., Thornthwaite, W., & Mundy, J. (2013).The Data Warehouse Toolkit, (3rd ed.). https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/
+
+Linkedin Learning ,Using Power BI with Excel https://www.linkedin.com/learning/using-power-bi-with-excel-14635015/transforming-and-refining-your-data?u=102895138
