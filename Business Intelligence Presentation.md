@@ -1,6 +1,6 @@
 # Business Intelligence Presentation Proposal: Analysis on Social Media Influence on Mental Health
 
-<img src="url_to_image" alt="alt_text" width="desired_width" height="desired_height">
+
               
 ## Introduction
 In this presentation, I will explore social media's impact on mental health and leverage business intelligence techniques to gain insights from relevant datasets. Understanding these connections can inform strategies for promoting well-being.
