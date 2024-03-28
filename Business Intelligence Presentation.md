@@ -10,7 +10,7 @@ In this presentation, I will explore social media's impact on mental health and 
 
 ## Presentation Candidate
 **Name:** Marian Ofori Yeboah
- - **Background and Experience.**: I have a background in business administration and am currently studying business intelligence and analytics at NSCC.
+**Background and Experience.**: I have a background in business administration and am currently studying business intelligence and analytics at NSCC.
  I have 5 years of experience as a Cost Control Analyst. I am knowledgeable in Database design, Reporting and  Analysis.
  I’ve worked extensively with Python, SQL, and Power BI tools.
 
