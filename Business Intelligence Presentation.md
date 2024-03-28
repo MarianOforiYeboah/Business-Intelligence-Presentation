@@ -9,8 +9,10 @@ In this presentation, I will explore social media's impact on mental health and 
 - **Empower Decision-Makers**: Provide actionable recommendations for mental health support.
 
 ## Presentation Candidate
-- Name and professional background
-- Experience with business intelligence tools and methodologies
+**Name:** Marian Ofori Yeboah
+ Background in Business Administration, and currently studying Business Intelligence and Analytics at NSCC.
+ I have 5 years of experience working as a Cost Control Analyst. I possess knowledge in Database design, Reporting, Analysis, and Structured Query Language
+ I’ve worked extensively with Python, SQL, and Power BI.
 
 ## Data Selection
 - Criteria for choosing the dataset
