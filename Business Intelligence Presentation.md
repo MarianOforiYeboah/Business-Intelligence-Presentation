@@ -16,9 +16,15 @@ In this presentation, I will explore social media's impact on mental health and 
  I have extensive experience working with Business Intelligence Tools such as Python, SQL, and Power BI.
  
 ## Data Selection
-- Criteria for choosing the dataset
-- Potential sources for data acquisition
-- Relevance of the chosen data to the business domain
+This dataset was chosen based on its relevance to the research focus on understanding the relationship between social media usage and mental health outcomes, its completeness and quality, and its compatibility with analysis goals. It includes 21 columns capturing various aspects and is appropriate for statistical analysis and deriving meaningful insights.
+
+### Potential sources for data acquisition
+- Survey Data Repositories
+- Market Research Reports
+- Academic Journals and Research Papers
+
+  
+### Relevance of the chosen data to the business domain
 
 ## Business Intelligence Techniques Demonstration
 - Overview of the selected business intelligence techniques
