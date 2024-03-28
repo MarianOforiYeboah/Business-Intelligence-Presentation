@@ -1,2 +1,2 @@
 # Social Media and Mental Health Analysis
-This repository exclusively contains the documentation and resources for my Business Intelligence Presentation, "Social Media and Mental Health Analysis." This presentation is an integral part of the Team ETL…
+This repository is solely dedicated to the documentation and resources of my Business Intelligence Presentation, "Social Media and Mental Health Analysis." It contains all the necessary documentation and resources related to our comprehensive analysis of social media data and its profound impact on mental health. It explores unparalleled insights, trends, and actionable recommendations.
