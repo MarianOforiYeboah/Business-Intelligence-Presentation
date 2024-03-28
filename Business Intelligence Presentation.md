@@ -12,7 +12,7 @@ In this presentation, I will explore social media's impact on mental health and 
 **Name:** Marian Ofori Yeboah
 
 **Background and Experience.**: I have a background in Business Administration and am currently studying Business Intelligence and Analytics at NSCC.
- I have 5 years of experience as a Cost Control Analyst. I am knowledgeable in Database design, Reporting and  Analysis.
+ I have five years of experience as a Cost Control Analyst. I am knowledgeable in Database design, Reporting and  Analysis.
  I have extensive experience working with Business Intelligence Tools such as Python, SQL, and Power BI.
  
 ## Data Selection
@@ -26,32 +26,38 @@ This dataset was chosen based on its relevance to the research focus on understa
 ## Business Intelligence Techniques Demonstration
 ### Overview of Selected Business Intelligence Techniques
 1. **Exploratory Data Analysis (EDA)**:
-
+    - Clean and preprocess data
+    - Explore correlations, sentiment, and common terms
   
 2. **Visualization with Power BI**:
- 
+    - Create interactive dashboards
+    - Visualize mental health trends over time.
+      
 ### Process of Applying Techniques to the Chosen Data
-1. **Data Preprocessing**:
    - Remove duplicates and handle missing values.
-     
-2. **EDA**:
    - Identify common mental health terms.
-   - Analyze sentiment scores.
-   - - Create interactive dashboards.
+   -  Create interactive dashboards 
    - Visualize mental health trends over time.
-3. **Hypothesis Testing (if applicable)**:
    - Test hypotheses related to social media impact on mental health.
 
-- Anticipated insights and their impact on business strategies
 
-## Implementation Plan
-- Schedule for the development of the presentation
+## Implementation
+### Schedule
+- Data Preparation: Week 1 
+- EDA and Analysis: Week 2
+- Power BI Visualization: Week 3
+- Rehearsals and Feedback:  Week 4
+
+### Necessary Resources
+- Python (Pandas)
+- SQL Server Management Studio 
+- Power BI Desktop
+
 - Necessary resources (BI tools, datasets, etc.)
 - Rehearsals and feedback sessions
 
 ## Conclusion
-- Recap of the expected contributions of the presentation
-- Encouragement for audience engagement
+This presentation explores the relationship between social media usage and mental health, providing insights for researchers and stakeholders. It analyzes a dataset of 21 key variables to deepen understanding of the correlation between social media habits and mental health. The analysis identifies patterns and trends, potentially revealing factors contributing to both positive and negative impacts. The findings can inform interventions and empower decision-making, promoting healthier social media habits and a more inclusive digital environment.
 
 ## Appendices
 - Bibliography of business intelligence literature
