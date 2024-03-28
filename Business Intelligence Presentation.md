@@ -16,19 +16,32 @@ In this presentation, I will explore social media's impact on mental health and 
  I have extensive experience working with Business Intelligence Tools such as Python, SQL, and Power BI.
  
 ## Data Selection
-This dataset was chosen based on its relevance to the research focus on understanding the relationship between social media usage and mental health outcomes, its completeness and quality, and its compatibility with analysis goals. It includes 21 columns capturing various aspects and is appropriate for statistical analysis and deriving meaningful insights.
+This dataset was chosen based on its relevance to the research focus on understanding the relationship between social media usage and mental health outcomes, its completeness, quality, and compatibility with analysis goals. It captures real-world conversations, sentiments, and trends related to mental health on selected social media platforms. It includes 21 columns capturing various aspects and is appropriate for statistical analysis and deriving meaningful insights.
 
 ### Potential sources for data acquisition
 - Survey Data Repositories
 - Market Research Reports
 - Academic Journals and Research Papers
 
-  
-### Relevance of the chosen data to the business domain
-
 ## Business Intelligence Techniques Demonstration
-- Overview of the selected business intelligence techniques
-- Process of applying these techniques to the chosen data
+### Overview of Selected Business Intelligence Techniques
+1. **Exploratory Data Analysis (EDA)**:
+
+  
+2. **Visualization with Power BI**:
+ 
+### Process of Applying Techniques to the Chosen Data
+1. **Data Preprocessing**:
+   - Remove duplicates and handle missing values.
+     
+2. **EDA**:
+   - Identify common mental health terms.
+   - Analyze sentiment scores.
+   - - Create interactive dashboards.
+   - Visualize mental health trends over time.
+3. **Hypothesis Testing (if applicable)**:
+   - Test hypotheses related to social media impact on mental health.
+
 - Anticipated insights and their impact on business strategies
 
 ## Implementation Plan
