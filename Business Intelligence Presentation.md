@@ -60,8 +60,7 @@ This dataset was chosen based on its relevance to the research focus on understa
 - SQL Server Management Studio 
 - Power BI Desktop
 
-- Necessary resources (BI tools, datasets, etc.)
-- Rehearsals and feedback sessions
+
 
 ## Conclusion
 This presentation explores the relationship between social media usage and mental health, providing insights for researchers and stakeholders. It analyzes a dataset of 21 key variables to deepen understanding of the correlation between social media habits and mental health. The analysis identifies patterns and trends, potentially revealing factors contributing to both positive and negative impacts. The findings can inform interventions and empower decision-making, promoting healthier social media habits and a more inclusive digital environment.
