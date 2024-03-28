@@ -62,5 +62,6 @@ This presentation explores the relationship between social media usage and menta
 ## Appendices
 ### Bibliography of business intelligence literature
 Kimball, R., Ross, M., Thornthwaite, W., & Mundy, J. (2013).The Data Warehouse Toolkit, (3rd ed.). https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/
-- Resources for additional learning and exploration
+
+### Resources for additional learning and exploration
 Primack, B. A., Shensa, A., Sidani, J. E., Whaite, E. O., Lin, L. yi, Rosen, D., Colditz, J. B., Radovic, A., & Miller, E. (2017). Social media use and perceived social isolation among young adults in the U.S. American Journal of Preventive Medicine, 53(1), 1–8. https://doi.org/10.1016/j.amepre.2017.01.010 
