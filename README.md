@@ -14,7 +14,8 @@ We have prepared a detailed presentation video to help you understand our projec
 
 !Presentation Video
 
-*Note: Replace `LINK_TO_YOUR_VIDEO` with the actual link to your video.*
+[<img src="https://github.com/MarianOforiYeboah/Capstone_2024-Technical-Presentation-/blob/main/Img/Screenshot_Notebook.png" width="600"  /> ](https://youtu.be/5XZRbTd1Eww)
+
 
 ## Key Insights ##
 
