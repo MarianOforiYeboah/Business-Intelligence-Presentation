@@ -14,7 +14,7 @@ We have prepared a detailed presentation video to help you understand our projec
 
 !Presentation Video
 
-[<img src="https://github.com/MarianOforiYeboah/Capstone_2024-Technical-Presentation-/blob/main/Img/Screenshot_Notebook.png" width="600"  /> ](https://youtu.be/EmgMygT-Ubc)
+[<img src="https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/cover%20page.png" width="600"  /> ](https://youtu.be/EmgMygT-Ubc)
 
 
 ## Key Insights ##
