@@ -6,7 +6,7 @@
 
 
               
-## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png)Introduction
+## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png) Introduction
 In this presentation, I will explore social media's impact on mental health and leverage business intelligence techniques to gain insights from relevant datasets. Understanding these connections can inform strategies for promoting well-being.
 
 ## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png) Goals of the Presentation
@@ -24,13 +24,13 @@ In this presentation, I will explore social media's impact on mental health and 
 ## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png) Data Selection
 This dataset was chosen based on its relevance to the research focus on understanding the relationship between social media usage and mental health outcomes, its completeness, quality, and compatibility with analysis goals. It captures real-world conversations, sentiments, and trends related to mental health on selected social media platforms. It includes 21 columns capturing various aspects and is appropriate for statistical analysis and deriving meaningful insights.
 
-### Potential sources for data acquisition
+### ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/Thumbs_up%20new.png) Potential sources for data acquisition
 - Survey Data Repositories
 - Market Research Reports
 - Academic Journals and Research Papers
 
 ## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png) Business Intelligence Techniques Demonstration
-### Overview of Selected Business Intelligence Techniques
+### ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/Thumbs_up%20new.png) Overview of Selected Business Intelligence Techniques
 1. **Exploratory Data Analysis (EDA)**:
     - Clean and preprocess data
     - Explore correlations, sentiment, and common terms
@@ -39,7 +39,7 @@ This dataset was chosen based on its relevance to the research focus on understa
     - Create interactive dashboards
     - Visualize mental health trends over time.
       
-### Process of Applying Techniques to the Chosen Data
+### ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/Thumbs_up%20new.png) Process of Applying Techniques to the Chosen Data
    - Remove duplicates and handle missing values.
    - Identify common mental health terms.
    -  Create interactive dashboards 
@@ -48,13 +48,13 @@ This dataset was chosen based on its relevance to the research focus on understa
 
 
 ## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png) Implementation
-### Schedule
+### ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/Thumbs_up%20new.png) Schedule
 - Data Preparation: Week 1 
 - EDA and Analysis: Week 2
 - Power BI Visualization: Week 3
 - Rehearsals and Feedback:  Week 4
 
-### Necessary Resources
+### ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/Thumbs_up%20new.png) Necessary Resources
 - Python (Pandas)
 - SQL Server Management Studio 
 - Power BI Desktop
@@ -67,7 +67,7 @@ This presentation explores the relationship between social media usage and menta
 ## ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/social-media.png) Appendices
 Original Dataset Source:https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
 
-### Resources for additional learning and exploration
+### ![image](https://github.com/MarianOforiYeboah/Business-Intelligence-Presentation/blob/main/Images/Thumbs_up%20new.png) Resources for additional learning and exploration
 
 Kimball, R., Ross, M., Thornthwaite, W., & Mundy, J. (2013).The Data Warehouse Toolkit, (3rd ed.). https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/
 
